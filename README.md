@@ -9,4 +9,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Spotify's Aesthetic: A UI Journey Through Spotify and Spotify Wrapped](j01/)
