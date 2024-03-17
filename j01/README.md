@@ -124,4 +124,3 @@ In the grand orchestra of Spotify Wrapped, these revelations weren't just number
 The social sharing brilliance of Spotify Wrapped added a communal layer. Effortlessly integrating with various social media platforms, it turned individual revelations into shared conversations. Posting my Wrapped results on Instagram became a social event, an invitation for followers, friends, and fellow music enthusiasts to engage in a dialogue about the year's musical highlights. The sociable aspect extended beyond the digital realm, sparking real conversations about shared tastes, discoveries, and the emotional journeys attached to specific songs.
 
 <img src="Spotify_Wrapped_Shared.PNG" width=25% height=25%>
-# First Journal Entry...
